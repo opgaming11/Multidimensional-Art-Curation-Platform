@@ -24,6 +24,11 @@ epoch = 2.5
 path = 'contracts/exhibition-management.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.multidimensional-art-nft]
+path = 'contracts/multidimensional-art-nft.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
