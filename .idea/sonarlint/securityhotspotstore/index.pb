@@ -7,3 +7,5 @@ O
 contracts/curation-process.clar,4/2/42fca52fcc3456ec274023105c08c50436e2f82e
 Q
 !contracts/dimension-bridging.clar,7/4/74b3df27345624422a2aa7da277f9ac24f636c2e
+T
+$contracts/exhibition-management.clar,4/b/4b68658fc52fb61e50dfb682e8d796457fbc281e
